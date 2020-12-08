@@ -1,0 +1,9 @@
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\bin\Debug\net472\day8.exe.config
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\bin\Debug\net472\day8.exe
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\bin\Debug\net472\day8.pdb
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\obj\Debug\net472\day8.csprojAssemblyReference.cache
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\obj\Debug\net472\day8.AssemblyInfoInputs.cache
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\obj\Debug\net472\day8.AssemblyInfo.cs
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\obj\Debug\net472\day8.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\obj\Debug\net472\day8.exe
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day8\day8\obj\Debug\net472\day8.pdb
