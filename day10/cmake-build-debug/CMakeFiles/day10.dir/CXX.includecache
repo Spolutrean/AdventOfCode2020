@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yaroslav.Sviridov/Desktop/AdventOfCode2020/day10/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
