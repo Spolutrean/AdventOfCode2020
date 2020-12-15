@@ -5,7 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba32382a-49fe-4240-b6cf-1ed00923c62e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.day14/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/bin/Debug/net5.0/day14.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/bin/Debug/net5.0/day14.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/bin/Debug/net5.0/day14.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/bin/Debug/net5.0/day14.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/bin/Debug/net5.0/day14.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/bin/Debug/net5.0/day14.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/bin/Debug/net5.0/ref/day14.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/day14.csproj" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day14/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/day14.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/Debug/net5.0/ref/day14.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/day14.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/day14.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/day14.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day13/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../day13/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day13/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../day13/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
     </list>
@@ -19,6 +57,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C8ED13E4-D063-4320-B29F-942B57A64198/40/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8ED13E4-D063-4320-B29F-942B57A64198/b2/e54d072a/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
@@ -47,6 +86,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -77,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607947339739</updated>
-      <workItem from="1607947352364" duration="4300000" />
+      <workItem from="1607947352364" duration="4463000" />
     </task>
     <servers />
   </component>
@@ -116,55 +156,94 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/day14/Program.cs</url>
-          <line>66</line>
+          <line>67</line>
           <properties documentPath="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day14\day14\Program.cs" initialLine="66" containingFunctionPresentation="method 'AdvancedPart'">
             <startOffsets>
-              <option value="2243" />
+              <option value="2216" />
             </startOffsets>
             <endOffsets>
-              <option value="2264" />
+              <option value="2237" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/day14/Program.cs</url>
-          <line>73</line>
+          <line>74</line>
           <properties documentPath="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day14\day14\Program.cs" initialLine="73" containingFunctionPresentation="method 'AdvancedPart'">
             <startOffsets>
-              <option value="2468" />
+              <option value="2442" />
             </startOffsets>
             <endOffsets>
-              <option value="2520" />
+              <option value="2494" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/day14/Program.cs</url>
-          <line>93</line>
+          <line>95</line>
           <properties documentPath="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day14\day14\Program.cs" initialLine="93" containingFunctionPresentation="method 'AdvancedPart'">
             <startOffsets>
-              <option value="3196" />
+              <option value="3174" />
             </startOffsets>
             <endOffsets>
-              <option value="3227" />
+              <option value="3205" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/day14/Program.cs</url>
-          <line>75</line>
+          <line>76</line>
           <properties documentPath="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day14\day14\Program.cs" initialLine="75" containingFunctionPresentation="method 'AdvancedPart'">
             <startOffsets>
-              <option value="2562" />
+              <option value="2516" />
             </startOffsets>
             <endOffsets>
-              <option value="2608" />
+              <option value="2562" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/day14/Program.cs</url>
+          <line>97</line>
+          <properties documentPath="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day14\day14\Program.cs" initialLine="95" containingFunctionPresentation="method 'AdvancedPart'">
+            <startOffsets>
+              <option value="3271" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3292" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/day14/Program.cs</url>
+          <line>104</line>
+          <properties documentPath="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day14\day14\Program.cs" initialLine="102" containingFunctionPresentation="method 'AdvancedPart'">
+            <startOffsets>
+              <option value="3429" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3446" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/day14/Program.cs</url>
+          <line>110</line>
+          <properties documentPath="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day14\day14\Program.cs" initialLine="108" containingFunctionPresentation="method 'AdvancedPart'">
+            <startOffsets>
+              <option value="3587" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3613" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

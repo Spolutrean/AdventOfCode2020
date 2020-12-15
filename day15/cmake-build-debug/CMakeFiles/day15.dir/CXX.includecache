@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yaroslav.Sviridov/Desktop/AdventOfCode2020/day15/main.cpp
+iostream
+-
+vector
+-
+string
+-
+map
+-
+unordered_map
+-
+
