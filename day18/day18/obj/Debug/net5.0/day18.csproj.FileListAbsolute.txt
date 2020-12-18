@@ -1,0 +1,16 @@
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\bin\Debug\net5.0\day18.exe
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\bin\Debug\net5.0\day18.deps.json
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\bin\Debug\net5.0\day18.runtimeconfig.json
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\bin\Debug\net5.0\day18.runtimeconfig.dev.json
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\bin\Debug\net5.0\day18.dll
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\bin\Debug\net5.0\ref\day18.dll
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\bin\Debug\net5.0\day18.pdb
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.csprojAssemblyReference.cache
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.AssemblyInfoInputs.cache
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.AssemblyInfo.cs
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.dll
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\ref\day18.dll
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.pdb
+C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day18\day18\obj\Debug\net5.0\day18.genruntimeconfig.cache
