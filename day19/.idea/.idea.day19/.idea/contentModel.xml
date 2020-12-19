@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Yaroslav.Sviridov\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Yaroslav.Sviridov\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_day19.1862353864.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Yaroslav.Sviridov\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Yaroslav.Sviridov\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Yaroslav.Sviridov\Desktop\AdventOfCode2020\day19" t="IncludeFlat">
+      <e p="day19" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="day19.csproj" t="IncludeRecursive" />
+        <e p="input.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="day19.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="test.txt" t="Include" />
+      </e>
+      <e p="day19.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
